@@ -9,7 +9,7 @@ google_analytics:   false # Your Google Analytics code - set to 'false' to disab
 # Author Info
 author_name:        "Aswin Mohan"
 author_email:       me.aswinmohan@gmail.com
-author_gravatar:    2169b1f612b2234beb5d3edb3143eefd # Gravatar md5 hash (of email) here for logo - set to 'false' to disable
+author_gravatar:    3dadbcb03859b84ac3860fca17c10104 # Gravatar md5 hash (of email) here for logo - set to 'false' to disable
 twitter_username:   aswinmohanme # set to 'false' to disable
 github_username:    aswinmohanme # set to 'false' to disable
 
