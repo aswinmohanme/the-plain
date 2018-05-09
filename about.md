@@ -1,10 +1,25 @@
 ---
 layout: page
 title: About
+published: true
 ---
 
-Hello.
+Hey there.
 
-This will be your About page. Anything about you, it should be written here in details. You may describe your bio here like who you are, what you do, your intention, social site hyperlinks and how people can contact you, etc.
+You reading this page means you want to know who write these couple stupid articles. Well if you have not guessed by the URL or the bad grammer, it's me Aswin Mohan.
+
+I'm a 19 yo, 6.5 guy from Kerala, India. I am kind of like the jack of all master of none kind of guy, so I don't know how to describe myself. So here's a list of things I do and like
+
+**Like & Do**
+- React and Javascript
+- React Native
+- Functional Programming
+- Design
+- Creative Coding
+- Python
+- Vim
+
+**Dislike List**
+- Java (I don't know why)
 
 **Less is more..**
