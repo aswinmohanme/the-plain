@@ -23,6 +23,7 @@ layout: default
 		<a class="home" href="{{ site.baseurl | prepend: site.url }}" title="Back to Homepage">Home</a>
   {% if page.previous.url %}
 		<span> &middot; </span>
+    <a href="{{ site.github.repository_url }}/tree/master/{{ page.relative_path }}">Edit</a>
     <a class="prev" href="{{ page.previous.url | prepend: site.baseurl | prepend: site.url }}" title="PREV: {{page.previous.title}}">&gt;&gt;</a>
   {% endif %}
 </div>
