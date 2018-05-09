@@ -1,7 +1,7 @@
 ---
 published: true
 ---
-> Lisp is the awesome, lisp can make you the 10x programmer, Lisp is the Hero we need
+> Lisp is awesome, lisp can make you the 10x programmer, Lisp is the Hero we need
 
 I have been reading about Lisp for some time now, and wherever I look and whatever I read there is always entire essays dedicated to lisp, how it's awesome, how it can make you a better programmer, how it can solve world hunger given the chance.
 
