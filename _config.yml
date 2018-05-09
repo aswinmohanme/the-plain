@@ -14,7 +14,7 @@ twitter_username:   aswinmohanme # set to 'false' to disable
 github_username:    aswinmohanme # set to 'false' to disable
 
 # Site Settings
-url:                https://aswinmohan.me # main url
+url:                https://aswinmohanme.github.io # main url
 baseurl:            / # for gh-pages
 permalink:          /notes/:title # Post permalink
 timezone:           Asia/Kuala_Lumpur # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
