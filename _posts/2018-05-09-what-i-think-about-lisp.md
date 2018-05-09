@@ -33,3 +33,5 @@ But there is no immediate feedback on all of these so praised things. Learning H
 I have rambled on for a couple of lines now. I honestly think Lisp is all the above claimed things. Lisp is beautiful like that country side girl who does not put on a shit ton of makeup. I have to spend more time with Lisp to see whether it holds up to the promise. I need to see more into the distance.
 
 I got to work more on Lisp to see what the true essence of Lisp is. I also hear it's macro system is super awesome too.
+
+[Discuss on HN](https://news.ycombinator.com/item?id=17030662)
