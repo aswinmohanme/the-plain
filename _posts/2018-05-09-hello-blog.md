@@ -1,11 +1,9 @@
 ---
 published: true
 ---
-[Hey Reader]()
-
 This is the first post on this blog, and I'm going to use it to layout some ground rules
 
-[Ground Rules]()
+### Ground Rules
 - I really like Tech so expect a lot of tech things
 - I do like art , so a lot of art things
 - I do like procastination, so a lot of procastinating
