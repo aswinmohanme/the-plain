@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
 # How I Reduced the Size of My React Native App by 86%
@@ -63,4 +63,3 @@ So that’s how you lose weight. Reducing the size of your app has many added be
 Be sure to check out [https://www.producthunt.com/posts/tet](https://www.producthunt.com/posts/tet) if you feel like seeing slim stuff.
 
 Thanks for Reading !!, and Clap until your hands bleed
-
