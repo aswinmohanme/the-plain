@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 So I switched to Elementary OS 0.4 Loki after using Fedora for over an year, and this is how Elementary holded up.
 
