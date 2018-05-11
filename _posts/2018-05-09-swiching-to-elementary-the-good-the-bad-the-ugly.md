@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 So I switched to Elementary OS 0.4 Loki after using Fedora for over an year, and this is how Elementary holded up.
 
@@ -26,7 +26,17 @@ Overall the OS feels snappy and responsive, maybe that's an added benifit of wri
 **Fonts**
 This should have been under beauty, but the fonts on Elementary are crisp and really really beautiful. I have never seen such beautiful font rendering on stock OS. I once installed Infinality to see whether it would bring any improvement, but it actually made Elementary look bad.
 
+**Stellar Apps**
+The custom apps that ship with Elementary are just too awesome. Files have a Coulumn Layout like that one found on mac, called merlin layout or something. Everything looks and feels like a unified whole. Only gnome apps look out of place, everything else looks pretty solid. Custom apps written for Elementary are a breeze to use and almost feature complete. 
+
 
 ## The Bad  
 **Outdated Software**  
-Ubuntu 16.04 is around 2 years old, so the ecosystem is 
+Ubuntu 16.04 is around 2 years old, so the ecosystem around it also pretty old. The packages are out of date, sometimes broken and sometimes unusable. Coming from Fedora where bleeding edge is the style, Elementary feels like a step backwards. This would be fixed when Juno comes out, but then I got to wait. 
+
+## Will I Stay ?  
+That's hard to tell, I have been using Elementary for around some weeks now, and I switch distros fast since my config files live inside git, it's only a matter of checking it out. 
+
+I really like Elementary, it brings a sort of visual flair that is missing in the rest of Linux ecosystem, and when Juno comes out, I'd pretty much jump ship and maybe make Elementary permanent.
+
+Fedora 28 came out and I installed to check it out. It's pretty much the same experience with the stock Gnome and evertything else. ( I do love Gnome)
