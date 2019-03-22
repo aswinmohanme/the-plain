@@ -3,7 +3,14 @@ body {
   line-height: 20px;
   font-weight: normal;
   font-style: normal;
-  font-family: consolas, monaco, courier, "courier new", fixed-width;
+  font-family:
+      SFMono-Regular,
+      Menlo,
+      Monaco,
+      Consolas,
+      "Liberation Mono",
+      "Courier New",
+      monospace;
   color: #333333;
   padding: 20px;
   margin: 0;
